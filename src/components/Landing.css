@@ -1,0 +1,103 @@
+.container{
+    display: flex;
+}
+
+.navbarCont{
+    width: 15%;
+    height: 100%;
+    background-color: #c9c4c6;
+}
+
+.mainCont{
+    width: 85%;
+}
+
+.mainImg{
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+}
+
+.imgText{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: -10%;
+    margin-left: 30%;
+}
+
+.UKdetails{
+    width: 92.2%;
+    height: 120px;
+    background-color: #4d5970;
+    padding: 50px;
+    margin-top: -1%;
+}
+
+.UKdetails div{
+    font-size: 40px;
+    color: white;
+}
+
+.UKdetails div:nth-child(2){
+    font-size: 30px;
+}
+
+.footer{
+    display: flex;
+    height: 200px;
+}
+
+.footerBox{
+    width: 10%;
+    margin: 50px;
+    margin-left: 100px;
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+.footerBox div{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.productsBox{
+    display: flex;
+    height: 360px;
+}
+
+.productDet{
+    width: 22.5%;
+    margin-left: 2%;
+    text-decoration: none;
+    color: gray;
+}
+
+.productImg{
+    width:300px;
+}
+
+.productDet:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+
+.aboutDet{
+    height: 700px;
+    margin-top: 5%;
+}
+
+.aboutHead{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.aboutContent{
+    width: 800px;
+    text-align: justify;
+    margin: 2% 18% 0 18%;
+}
+
+

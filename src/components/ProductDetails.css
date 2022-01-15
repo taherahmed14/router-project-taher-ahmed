@@ -1,0 +1,54 @@
+.productsDetBox{
+    display: flex;
+    height: 800px;
+    width: 95%;
+}
+
+.productDets{
+    display: flex;
+    width: 95%;
+}
+
+.productDets:hover{
+    cursor: inherit;
+    opacity: 100%;
+}
+
+.productDetImg{
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.productDetailsBox{
+    width: 50%;
+}
+
+.productDetailsBox > div:nth-child(1){ 
+    font-size: 22px;
+    margin: 20px;
+    text-align: left;
+}
+
+.productDetailsBox > div:nth-child(2){ 
+    font-size: 14px;
+    margin: 20px;
+    text-align: left;
+    color: gray;
+}
+
+.productDetailsBox > div:nth-child(3){ 
+    font-size: 18px;
+    margin: 20px;
+    text-align: left;
+}
+
+button{
+    width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    background-color: turquoise;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/MagsSoftLow3SeaterComb1Vidar943_MoireKelimgrey_Kofi140x50greytintedglasstabletopwblacquerwalnutframe.jpg?v=1641488088&auto=format&w=960&",
+            "title": "Mags Soft Low Arm Modular Sofa Units",
+            "price": "£588"
+        },
+        {
+            "id": 2,
+            "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-scp-bruno.jpg?v=1635343808&auto=format&w=960&",
+            "title": "Bruno Armchair",
+            "price": "£4448"
+        },
+        {
+            "id": 3,
+            "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/455_Companions_Bed_by_Studioilse_in_white_oiled_ash.jpg?v=1613662798&auto=format&w=1280&",
+            "title": "Companions Bed",
+            "price": "£3672"
+        },
+        {
+            "id": 4,
+            "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Companions_Low_Bedside.jpg?v=1613737264&auto=format&w=1280&",
+            "title": "Companions Bedside Table",
+            "price": "£969"
+        }
+    ]
+}
